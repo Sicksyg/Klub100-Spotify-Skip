@@ -1,4 +1,4 @@
-# Klub100---Spotify-Skip
+# Klub100-Spotify-Skip
 
 Klub 100 program to auto change songs on spotify.
 
